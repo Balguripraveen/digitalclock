@@ -25,6 +25,8 @@ How It Works
 - Label Widget: Displays the time in the specified font, background, and foreground colors.
 - Dynamic Updates: The after() method ensures the clock refreshes every second.
 
+- 
+https://github.com/Balguripraveen/digitalclock.git
 
 
 
